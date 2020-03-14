@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-14T12:34:40.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="DYOwHu1ds5Tf10kV6GrA" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-14T12:40:18.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="nDrWL7RXO4u_j-DQqoIq" version="12.8.4" type="github">
   <diagram id="fgnYmE3izWYNrjhfP__V" name="Page-1">
     <mxGraphModel dx="1278" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -247,8 +247,8 @@
         <mxCell id="6vO43c98AniMDwSHTN-E-30" value="&lt;div&gt;&lt;b&gt;Read&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Replica&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="825.75" y="612.5" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="6vO43c98AniMDwSHTN-E-31" value="&lt;div&gt;&lt;b&gt;Email&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Alert&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15.25" y="590" width="60" height="40" as="geometry" />
+        <mxCell id="6vO43c98AniMDwSHTN-E-31" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Email&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Alert&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15.25" y="581.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6vO43c98AniMDwSHTN-E-32" value="&lt;b&gt;SNS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="50.000000000000114" y="364.5" width="40" height="20" as="geometry" />
