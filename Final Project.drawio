@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-14T12:57:20.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="KptvDF_DkrEN_5bGhdDJ" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-14T13:00:30.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="h1f8OoWlAtAy76Quc00q" version="12.8.4" type="github">
   <diagram id="fgnYmE3izWYNrjhfP__V" name="Page-1">
-    <mxGraphModel dx="1278" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,10 +168,10 @@
           <mxGeometry x="22" y="550" width="46.5" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="DYy4nuHR0jM4T0Kt2N74-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticache;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="785" width="35.25" height="40" as="geometry" />
+          <mxGeometry x="300" y="780" width="35.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m4tTMfVvqO9qfEUQElSe-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="780" width="36" height="50" as="geometry" />
+          <mxGeometry x="415" y="775" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m4tTMfVvqO9qfEUQElSe-6" value="Subnet:ACL" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=#E6F0E2;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="215" y="160" width="250" height="62" as="geometry" />
@@ -264,6 +264,12 @@
         </mxCell>
         <mxCell id="WxUVMF5Bl-MjO6CZi5yv-6" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="190.38" y="425.5" width="739.62" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6vO43c98AniMDwSHTN-E-45" value="&lt;b&gt;Elasticache&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275.13" y="825" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6vO43c98AniMDwSHTN-E-46" value="&lt;b&gt;CloudFront&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="396.18999999999994" y="825" width="77.63" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
